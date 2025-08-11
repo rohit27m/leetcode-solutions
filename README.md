@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit27m/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/rohit27m/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [2102-find-the-middle-index-in-array](https://github.com/rohit27m/leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2529-range-product-queries-of-powers](https://github.com/rohit27m/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rohit27m/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/rohit27m/leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2529-range-product-queries-of-powers](https://github.com/rohit27m/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Design
 |  |
