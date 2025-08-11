@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohit27m/leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rohit27m/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit27m/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/rohit27m/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rohit27m/leetcode-solutions/tree/master/0155-min-stack) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rohit27m/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
