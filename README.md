@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rohit27m/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit27m/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/rohit27m/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rohit27m/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rohit27m/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rohit27m/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Prefix Sum
 |  |
 | ------- |
