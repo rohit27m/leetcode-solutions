@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rohit27m/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/rohit27m/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2529-range-product-queries-of-powers](https://github.com/rohit27m/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Math
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit27m/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/rohit27m/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rohit27m/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rohit27m/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/rohit27m/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rohit27m/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rohit27m/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
