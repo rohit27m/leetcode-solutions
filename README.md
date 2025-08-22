@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rohit27m/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/rohit27m/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohit27m/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit27m/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/rohit27m/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rohit27m/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rohit27m/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
