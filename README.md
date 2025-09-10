@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/rohit27m/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2102-find-the-middle-index-in-array](https://github.com/rohit27m/leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/rohit27m/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2475-largest-palindromic-number](https://github.com/rohit27m/leetcode-solutions/tree/master/2475-largest-palindromic-number) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/rohit27m/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2475-largest-palindromic-number](https://github.com/rohit27m/leetcode-solutions/tree/master/2475-largest-palindromic-number) |
 ## Trie
 |  |
