@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rohit27m/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2481-strictly-palindromic-number](https://github.com/rohit27m/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/rohit27m/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3830-find-closest-person](https://github.com/rohit27m/leetcode-solutions/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
