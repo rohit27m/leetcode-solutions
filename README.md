@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rohit27m/leetcode-solutions/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/rohit27m/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rohit27m/leetcode-solutions/tree/master/0443-string-compression) |
+| [1250-longest-common-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rohit27m/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1894-merge-strings-alternately](https://github.com/rohit27m/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2475-largest-palindromic-number](https://github.com/rohit27m/leetcode-solutions/tree/master/2475-largest-palindromic-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rohit27m/leetcode-solutions/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/rohit27m/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rohit27m/leetcode-solutions/tree/master/0338-counting-bits) |
+| [1250-longest-common-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
