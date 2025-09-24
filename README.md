@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rohit27m/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohit27m/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rohit27m/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rohit27m/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rohit27m/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohit27m/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rohit27m/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rohit27m/leetcode-solutions/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rohit27m/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/rohit27m/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/rohit27m/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/rohit27m/leetcode-solutions/tree/master/0443-string-compression) |
 | [1250-longest-common-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rohit27m/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rohit27m/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rohit27m/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/rohit27m/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2529-range-product-queries-of-powers](https://github.com/rohit27m/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Math
