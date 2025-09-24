@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rohit27m/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/rohit27m/leetcode-solutions/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rohit27m/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rohit27m/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohit27m/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/rohit27m/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/rohit27m/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/rohit27m/leetcode-solutions/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rohit27m/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/rohit27m/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rohit27m/leetcode-solutions/tree/master/0443-string-compression) |
 | [1250-longest-common-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rohit27m/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rohit27m/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit27m/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rohit27m/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/rohit27m/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rohit27m/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohit27m/leetcode-solutions/tree/master/0342-power-of-four) |
