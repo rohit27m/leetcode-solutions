@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rohit27m/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rohit27m/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/rohit27m/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rohit27m/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohit27m/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/rohit27m/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [3790-fruits-into-baskets-ii](https://github.com/rohit27m/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rohit27m/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/rohit27m/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
