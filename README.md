@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rohit27m/leetcode-solutions/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/rohit27m/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0830-largest-triangle-area](https://github.com/rohit27m/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1019-squares-of-a-sorted-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rohit27m/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohit27m/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/rohit27m/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohit27m/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/rohit27m/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/rohit27m/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
