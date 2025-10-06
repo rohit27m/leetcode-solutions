@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/rohit27m/leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/rohit27m/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/rohit27m/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2529-range-product-queries-of-powers](https://github.com/rohit27m/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rohit27m/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit27m/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohit27m/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/rohit27m/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Counting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rohit27m/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohit27m/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0268-missing-number) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/rohit27m/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/rohit27m/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rohit27m/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/rohit27m/leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/rohit27m/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/rohit27m/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Design
 |  |
