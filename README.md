@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2529-range-product-queries-of-powers](https://github.com/rohit27m/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rohit27m/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/rohit27m/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rohit27m/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rohit27m/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/rohit27m/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/rohit27m/leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rohit27m/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/rohit27m/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/rohit27m/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Design
 |  |
 | ------- |
