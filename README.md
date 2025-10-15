@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rohit27m/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/rohit27m/leetcode-solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/rohit27m/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0871-keys-and-rooms](https://github.com/rohit27m/leetcode-solutions/tree/master/0871-keys-and-rooms) |
 ## Combinatorics
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rohit27m/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rohit27m/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rohit27m/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0871-keys-and-rooms](https://github.com/rohit27m/leetcode-solutions/tree/master/0871-keys-and-rooms) |
 ## Union Find
 |  |
 | ------- |
@@ -340,5 +342,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/rohit27m/leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/rohit27m/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
