@@ -1,31 +1,22 @@
 class Solution {
-    public int racecar(int target) {
-        Queue<int[]> q = new LinkedList<>();
-        Set<String> visited = new HashSet<>();
-        q.offer(new int[]{0, 1});
-        visited.add("0,1");
-        int steps = 0;
-        while (!q.isEmpty()) {
-            int size = q.size();
-            for (int i = 0; i < size; i++) {
-                int[] cur = q.poll();
-                int pos = cur[0], speed = cur[1];
-                if (pos == target) return steps;
-                int nextPos = pos + speed, nextSpeed = speed * 2;
-                String key1 = nextPos + "," + nextSpeed;
-                if (nextPos > 0 && nextPos < 2 * target && !visited.contains(key1)) {
-                    visited.add(key1);
-                    q.offer(new int[]{nextPos, nextSpeed});
-                }
-                int revSpeed = speed > 0 ? -1 : 1;
-                String key2 = pos + "," + revSpeed;
-                if (!visited.contains(key2)) {
-                    visited.add(key2);
-                    q.offer(new int[]{pos, revSpeed});
-                }
-            }
-            steps++;
+    private final java.util.Map<Integer, Integer> memo = new java.util.HashMap<>();
+
+    public int racecar(int t) { return dp(t); }
+
+    private int dp(int t) {
+        if (t == 0) return 0;
+        if (memo.containsKey(t)) return memo.get(t);
+
+        int k = 32 - Integer.numberOfLeadingZeros(t);   // minimal k s.t. (1<<k)-1 >= t
+        int full = (1 << k) - 1;
+        if (full == t) return memo.put(t, k) == null ? k : k;
+
+        int res = k + 1 + dp(full - t);                 // overshoot, reverse once
+        for (int m = 0; m < k - 1; m++) {               // stop early, reverse, back m, reverse
+            int remain = t - ((1 << (k - 1)) - (1 << m));
+            res = Math.min(res, k + m + 1 + dp(remain));
         }
-        return -1;
+        memo.put(t, res);
+        return res;
     }
 }
