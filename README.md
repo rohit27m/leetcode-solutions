@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit27m/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rohit27m/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/rohit27m/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/rohit27m/leetcode-solutions/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rohit27m/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rohit27m/leetcode-solutions/tree/master/0169-majority-element) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rohit27m/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/rohit27m/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/rohit27m/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/rohit27m/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/rohit27m/leetcode-solutions/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rohit27m/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/rohit27m/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rohit27m/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/rohit27m/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rohit27m/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/rohit27m/leetcode-solutions/tree/master/0322-coin-change) |
