@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/rohit27m/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2102-find-the-middle-index-in-array](https://github.com/rohit27m/leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rohit27m/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit27m/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/rohit27m/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohit27m/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rohit27m/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/rohit27m/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rohit27m/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit27m/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2475-largest-palindromic-number](https://github.com/rohit27m/leetcode-solutions/tree/master/2475-largest-palindromic-number) |
 | [2825-minimize-string-length](https://github.com/rohit27m/leetcode-solutions/tree/master/2825-minimize-string-length) |
 | [2887-sort-vowels-in-a-string](https://github.com/rohit27m/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/rohit27m/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohit27m/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit27m/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/rohit27m/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/rohit27m/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/rohit27m/leetcode-solutions/tree/master/3830-find-closest-person) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rohit27m/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rohit27m/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/rohit27m/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit27m/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rohit27m/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rohit27m/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Brainteaser
