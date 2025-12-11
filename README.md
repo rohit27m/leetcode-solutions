@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rohit27m/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rohit27m/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rohit27m/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/rohit27m/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohit27m/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
