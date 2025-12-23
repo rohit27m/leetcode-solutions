@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rohit27m/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2054-two-best-non-overlapping-events](https://github.com/rohit27m/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2102-find-the-middle-index-in-array](https://github.com/rohit27m/leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rohit27m/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit27m/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2054-two-best-non-overlapping-events](https://github.com/rohit27m/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/rohit27m/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rohit27m/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rohit27m/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/rohit27m/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/rohit27m/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rohit27m/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/rohit27m/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/rohit27m/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0836-race-car](https://github.com/rohit27m/leetcode-solutions/tree/master/0836-race-car) |
 | [1250-longest-common-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [2054-two-best-non-overlapping-events](https://github.com/rohit27m/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/rohit27m/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/rohit27m/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Greedy
 |  |
