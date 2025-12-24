@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2529-range-product-queries-of-powers](https://github.com/rohit27m/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rohit27m/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3074-apple-redistribution-into-boxes](https://github.com/rohit27m/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/rohit27m/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rohit27m/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rohit27m/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rohit27m/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/rohit27m/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rohit27m/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3074-apple-redistribution-into-boxes](https://github.com/rohit27m/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rohit27m/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rohit27m/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rohit27m/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2475-largest-palindromic-number](https://github.com/rohit27m/leetcode-solutions/tree/master/2475-largest-palindromic-number) |
+| [3074-apple-redistribution-into-boxes](https://github.com/rohit27m/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Trie
 |  |
 | ------- |
