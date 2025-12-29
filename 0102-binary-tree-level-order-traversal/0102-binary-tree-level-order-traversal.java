@@ -1,23 +1,15 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
-
-        // Edge case
         if (root == null) return res;
-
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
-
         while (!queue.isEmpty()) {
             int size = queue.size();
             List<Integer> arr = new ArrayList<>();
-
             for (int i = 0; i < size; i++) {
                 TreeNode node = queue.poll();
                 arr.add(node.val);
-
                 if (node.left != null) {
                     queue.add(node.left);
                 }
@@ -25,7 +17,7 @@ class Solution {
                     queue.add(node.right);
                 }
             }
-            res.add(arr); // add after finishing one level
+            res.add(arr); 
         }
         return res;
     }
