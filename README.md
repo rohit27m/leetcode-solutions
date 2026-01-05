@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rohit27m/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/rohit27m/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rohit27m/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohit27m/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/rohit27m/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/rohit27m/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/rohit27m/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rohit27m/leetcode-solutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rohit27m/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/rohit27m/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohit27m/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/rohit27m/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rohit27m/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rohit27m/leetcode-solutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rohit27m/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/rohit27m/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohit27m/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/rohit27m/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rohit27m/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
