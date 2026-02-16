@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rohit27m/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/rohit27m/leetcode-solutions/tree/master/0052-n-queens-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
