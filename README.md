@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/rohit27m/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/rohit27m/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/rohit27m/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/rohit27m/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rohit27m/leetcode-solutions/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rohit27m/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/rohit27m/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/rohit27m/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/rohit27m/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohit27m/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/rohit27m/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rohit27m/leetcode-solutions/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/rohit27m/leetcode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/rohit27m/leetcode-solutions/tree/master/0337-house-robber-iii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rohit27m/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/rohit27m/leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [0131-palindrome-partitioning](https://github.com/rohit27m/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
