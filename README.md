@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/rohit27m/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/rohit27m/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/rohit27m/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rohit27m/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2054-two-best-non-overlapping-events](https://github.com/rohit27m/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rohit27m/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0427-construct-quad-tree](https://github.com/rohit27m/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/rohit27m/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/rohit27m/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit27m/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rohit27m/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rohit27m/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
