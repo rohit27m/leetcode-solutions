@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rohit27m/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohit27m/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/rohit27m/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/rohit27m/leetcode-solutions/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/rohit27m/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/rohit27m/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -493,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohit27m/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/rohit27m/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rohit27m/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rohit27m/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
