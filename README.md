@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rohit27m/leetcode-solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/rohit27m/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/rohit27m/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+| [0455-assign-cookies](https://github.com/rohit27m/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/rohit27m/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/rohit27m/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rohit27m/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohit27m/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rohit27m/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/rohit27m/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rohit27m/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rohit27m/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rohit27m/leetcode-solutions/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/rohit27m/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/rohit27m/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohit27m/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/rohit27m/leetcode-solutions/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/rohit27m/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rohit27m/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2475-largest-palindromic-number](https://github.com/rohit27m/leetcode-solutions/tree/master/2475-largest-palindromic-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rohit27m/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
