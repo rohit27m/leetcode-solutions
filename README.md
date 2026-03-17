@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/rohit27m/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rohit27m/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/rohit27m/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rohit27m/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rohit27m/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rohit27m/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohit27m/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/rohit27m/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/rohit27m/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rohit27m/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rohit27m/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/rohit27m/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rohit27m/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rohit27m/leetcode-solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/rohit27m/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/rohit27m/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rohit27m/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2475-largest-palindromic-number](https://github.com/rohit27m/leetcode-solutions/tree/master/2475-largest-palindromic-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rohit27m/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/rohit27m/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/rohit27m/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rohit27m/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/rohit27m/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rohit27m/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rohit27m/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rohit27m/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
